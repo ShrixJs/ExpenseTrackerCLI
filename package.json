@@ -1,0 +1,28 @@
+{
+  "name": "expensetrackercli",
+  "version": "1.0.0",
+  "description": "a comand line interface for expense tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShrixJs/ExpenseTrackerCLI.git"
+  },
+  "author": "Atanas Stanev (ShrixJs)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShrixJs/ExpenseTrackerCLI/issues"
+  },
+  "homepage": "https://github.com/ShrixJs/ExpenseTrackerCLI#readme",
+  "dependencies": {
+    "commander": "^12.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.1",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^18.0.0",
+    "typescript": "^5.5.4"
+  }
+}
